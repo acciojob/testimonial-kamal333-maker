@@ -9,7 +9,12 @@ body{
 	background-color:white;
 	margin-bottom:15px;
 }
-
+.text{
+	padding:5px;
+	font-family:arial;
+	font-size:4mm;
+	font-weight:thin;
+}
 .author{
 	text-align:right;
 	font-style:italic;
